@@ -1,0 +1,14 @@
+{
+    "Manga": [
+        {
+            "title": "Naruto",
+            "description": "Twelve years ago, the powerful Nine-Tailed Demon Fox attacked the ninja village of Konohagakure. The demon was quickly defeated and sealed into the infant Naruto Uzumaki, by the Fourth Hokage who sacrificed his life to protect the village. Now Naruto is the number one knucklehead ninja who's determined to become the next Hokage and gain recognition by everyone who ever doubted him!\n\nNote: Has been nominated for the 19th Tezuka Osamu Cultural Prize and won the \"Rookie of the Year\" award in the media fine arts category by the Agency for Cultural Affairs in 2015.\n\nRead for FREE on Manga Plus... More...",
+            "imagePath": "Naruto.png"
+        },
+        {
+            "title": "Solo Leveling",
+            "description": "10 years ago, after \u201cthe Gate\u201d that connected the real world with the monster world opened, some of the ordinary, everyday people received the power to hunt monsters within the Gate. They are known as \"Hunters\". However, not all Hunters are powerful. My name is Sung Jin-Woo, an E-rank Hunter. I'm someone who has to risk his life in the lowliest of dungeons, the \"World's Weakest\". Having no skills whatsoever to display, I barely earned the required money by fighting in low-leveled dungeons\u2026 at least until I found a hidden dungeon with the hardest difficulty within the D-rank dungeons! ... More...",
+            "imagePath": "Solo Leveling.png"
+        }
+    ]
+}
